@@ -53,7 +53,7 @@ public class MainActivity extends AppCompatActivity {
                             finish();
                         }
                     });
-                    builder.setNeutralButton("Want to do Another Payment", new DialogInterface.OnClickListener() {
+                    builder.setNeutralButton("Want to do Any other Payment", new DialogInterface.OnClickListener() {
                         @Override
                         public void onClick(DialogInterface dialogInterface, int i) {
                             dialogInterface.cancel();
