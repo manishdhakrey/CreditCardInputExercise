@@ -3,4 +3,5 @@
     <string name="invalid_cvv">Please Enter Valid Secuirity Code</string>
     <string name="invalid_firstName">Please Enter Valid First Name</string>
     <string name="invalid_lastName">"Please Enter Valid Last Name "</string>
+    <string name="invalid_cardNumber">Please Enter valid Card Number</string>
 </resources>
